@@ -4,4 +4,4 @@ mi nombre es maria elena
 vamos a cambiar el archvio para ver la clase de git 01-02-2023
 esto es una prueba
 
-hoy es el Ceo de platzi
+Hoy hablaremos de su vida
